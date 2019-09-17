@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySQLFirstTry</string>
+    <string name="main_header">Simple MySQL Client</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="user_surname_hint">User Surname</string>
+    <string name="user_age_hint">User age</string>
+    <string name="insert_button_label">Insert</string>
+    <string name="get_user_button_label">Get</string>
+</resources>
